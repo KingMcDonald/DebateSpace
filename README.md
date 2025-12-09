@@ -59,6 +59,7 @@ npm install
 
 ### 3. Run the server:
 npm start
+
 ---
 
 ## 🧠 Learning Goal
@@ -75,4 +76,4 @@ DebateSpace is built as a step-by-step learning project to help beginners unders
 
 ## 👤 Author
 Created by **King McDonald**  
-Guided by ChatGPT  
+
