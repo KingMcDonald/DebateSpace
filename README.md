@@ -29,6 +29,7 @@ The project will be developed step-by-step as a learning journey.
 
 ---
 
+```
 ## 🏗️ Project Structure (Initial)
 DebateSpace/
 │── backend/
@@ -45,7 +46,7 @@ DebateSpace/
 │ └── js/
 │
 └── README.md
-
+```
 ---
 
 ## 📦 Setup Instructions
@@ -76,4 +77,5 @@ DebateSpace is built as a step-by-step learning project to help beginners unders
 
 ## 👤 Author
 Created by **King McDonald**  
+
 
