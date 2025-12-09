@@ -24,13 +24,13 @@ The project will be developed step-by-step as a learning journey.
 - Forums Section
 - Commenting & Liking
 - Real-time Notifications (future)
-- Light Mode / Dark Mode
 - Modern UI similar to today's social apps
+- And many more in the near future
 
 ---
 
-```
 ## 🏗️ Project Structure (Initial)
+```
 DebateSpace/
 │── backend/
 │ ├── server.js
@@ -52,7 +52,9 @@ DebateSpace/
 ## 📦 Setup Instructions
 
 ### 1. Clone the repository:
+```
 git clone https://github.com/KingMcDonald/DebateSpace.git
+```
 
 
 ### 2. Install dependencies:
@@ -77,5 +79,6 @@ DebateSpace is built as a step-by-step learning project to help beginners unders
 
 ## 👤 Author
 Created by **King McDonald**  
+
 
 
